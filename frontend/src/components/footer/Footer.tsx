@@ -34,7 +34,7 @@ const Footer = () => {
             href="https://github.com/stonith404/pingvin-share"
             target="_blank"
           >
-            Pingvin Share
+            Rpico Share
           </Anchor>
         </Text>
         <div>
